@@ -1,4 +1,4 @@
-# Funny-UIKit-Behaviors
+# Fub (Funny UIKit Behaviors)
 
 This project demonstrates some interesting UIKit behaviors.
 
